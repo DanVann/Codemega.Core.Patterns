@@ -1,0 +1,1 @@
+# Codemega.Core.Patterns
